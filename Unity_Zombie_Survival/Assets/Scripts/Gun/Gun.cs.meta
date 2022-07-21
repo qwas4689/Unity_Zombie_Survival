@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 93c14943f73d87543b453f3a037d7029
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FireTransform: {instanceID: 0}
+  - MuzzleFlashEffect: {instanceID: 0}
+  - ShellEjectEffect: {instanceID: 0}
+  - Data: {fileID: 11400000, guid: 2321221095e03f64eb536111c9d63224, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
